@@ -4,7 +4,7 @@ http.createServer(function (req, res) {
 
   res.write('<html><head></head><body>');
 
-  res.write('Welcome to the Test Web Application!'+'<br/>');
+  res.write('Welcome to the Test Web Application 09:41!'+'<br/>');
 
   res.write('===================================='+'<br/>');
 
